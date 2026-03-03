@@ -28,13 +28,11 @@ The "Invisible 400 Million" refers to India’s gig-economy workforce including 
 - **Development Environment:** TRAE AI IDE
 - **Data Source:** Mocked Setu Account Aggregator JSON datasets
 
-### The Scoring Methodology
-The Financial Health Score is calculated using a weighted behavioral algorithm:
-
-$$Score = 300 + (\text{Consistency Percentage} \times 3) + \frac{\text{Monthly Gig Volume}}{150}$$
-
 - **Consistency:** The percentage of days within a 30-day window containing at least one verified gig-income credit.
 - **Velocity:** The frequency of micro-credits indicating active participation in the gig economy.
+
+
+![Untitled Diagram](https://github.com/user-attachments/assets/5553f8f9-3969-4d83-896f-95d03fdd1bfb)
 
 ---
 
