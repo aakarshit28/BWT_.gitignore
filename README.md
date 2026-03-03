@@ -85,7 +85,7 @@ Workers generate a dynamic QR Code representing their identity. When scanned by 
 * **Data Simulation:** Mocked Setu AA API Responses
 
 ### Development Environment
-* **IDE:** TRAE AI IDE (Used for rapid scaffolding and complex algorithm generation)
+* **IDE:** TRAE AI IDE 
 
 ---
 
