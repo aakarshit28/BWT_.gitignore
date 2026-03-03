@@ -28,29 +28,12 @@ The "Invisible 400 Million" refers to India’s gig-economy workforce including 
 - **Development Environment:** TRAE AI IDE
 - **Data Source:** Mocked Setu Account Aggregator JSON datasets
 
-- [1. USER CONSENT] <---- (User interacts) ----> (Simulated Account Aggregator UI)
-              |
-              | (Consent Granted)
-              V
-[2. DATA INGESTION LAYER] <--- [Setu AA Sandbox (MOCK DATA)]
-       (Raw JSON Response)
-              |
-              | (Data Flow)
-              V
-  [3. THE INTENT ENGINE]  --- (TRAE Logic) ---> [Contextual Filters]
-      (Processing Layer)                       - Gig-Income (Zomato/Swiggy)
-                                               - Daily Cash Flow Velocity
-                                               - Consistency Check
-              |
-              | (Normalized Data)
-              V
-[4. IDENTITY & VERIFICATION] --- (Data Persistence) ---> [Firebase Firestore]
-      (Output Layer)                                     (Stores only the Score/Metadata)
-              |
-              | (Handshake)
-              V
-    [5. LENDER DASHBOARD] <--- (QR Scan) ---> (Worker's CashFlow Passport UI)
-                                            - (Lender scans dynamic QR)
+[ User Interface ] <------> [ Logic Layer ] <------> [ Data Layer ]
+      |                         |                        |
+      |                         |                        |
+(Worker Mobile App)      (Scoring Algorithm)      (Firebase Firestore)
+(Lender Dashboard)       (Intent Filtering)       (Setu AA Sandbox)
+
 
 ### The Scoring Methodology
 The Financial Health Score is calculated using a weighted behavioral algorithm:
