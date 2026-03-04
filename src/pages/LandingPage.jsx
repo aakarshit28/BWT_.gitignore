@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { motion, useScroll, useTransform } from 'framer-motion';
+import React, { useState, useEffect, useRef } from 'react';
+import { motion, useScroll, useTransform, AnimatePresence } from 'framer-motion';
 import { Link } from 'react-router-dom';
 
 const LandingPage = () => {
@@ -16,48 +16,55 @@ const LandingPage = () => {
         return () => timers.forEach(clearTimeout);
     }, []);
 
-    const { scrollYProgress } = useScroll();
+    const targetRef = useRef(null);
+    const { scrollYProgress } = useScroll({
+        target: targetRef,
+    });
     const xTransform = useTransform(scrollYProgress, [0, 1], ["0%", "-75%"]);
 
     return (
         <div className="relative min-h-screen bg-zinc-950 text-zinc-50 overflow-x-hidden pt-20">
 
             {/* Cinematic Overlay */}
-            {showOverlay && (
-                <motion.div
-                    className="fixed inset-0 z-50 flex items-center justify-center bg-white text-black"
-                    initial={{ opacity: 1 }}
-                    exit={{ opacity: 0 }}
-                >
-                    {overlayPhase === 0 && (
-                        <motion.h1
-                            initial={{ opacity: 0 }}
-                            animate={{ opacity: 1 }}
-                            exit={{ opacity: 0 }}
-                            className="text-4xl md:text-6xl font-light tracking-tighter"
-                        >
-                            Connecting Gig workers
-                        </motion.h1>
-                    )}
-                    {overlayPhase === 1 && (
-                        <motion.h1
-                            initial={{ opacity: 0 }}
-                            animate={{ opacity: 1 }}
-                            className="text-4xl md:text-6xl font-light tracking-tighter"
-                        >
-                            To a system that's for everyone.
-                        </motion.h1>
-                    )}
-                    {overlayPhase >= 2 && (
-                        <motion.div
-                            initial={{ scale: 0 }}
-                            animate={{ scale: 150 }}
-                            transition={{ duration: 1.5, ease: "circIn" }}
-                            className="w-10 h-10 bg-zinc-950 rounded-full"
-                        />
-                    )}
-                </motion.div>
-            )}
+            <AnimatePresence>
+                {showOverlay && (
+                    <motion.div
+                        className="fixed inset-0 z-50 flex items-center justify-center bg-white text-black overflow-hidden"
+                        initial={{ opacity: 1 }}
+                        exit={{ opacity: 0 }}
+                        transition={{ duration: 1 }}
+                    >
+                        {overlayPhase === 0 && (
+                            <motion.h1
+                                initial={{ opacity: 0 }}
+                                animate={{ opacity: 1 }}
+                                exit={{ opacity: 0 }}
+                                className="text-4xl md:text-6xl font-light tracking-tighter absolute"
+                            >
+                                Connecting Gig workers
+                            </motion.h1>
+                        )}
+                        {overlayPhase === 1 && (
+                            <motion.h1
+                                initial={{ opacity: 0 }}
+                                animate={{ opacity: 1 }}
+                                exit={{ opacity: 0 }}
+                                className="text-4xl md:text-6xl font-light tracking-tighter absolute text-center px-6"
+                            >
+                                To a system that's for everyone.
+                            </motion.h1>
+                        )}
+                        {overlayPhase >= 2 && (
+                            <motion.div
+                                initial={{ scale: 0 }}
+                                animate={{ scale: 200 }}
+                                transition={{ duration: 1.5, ease: "circIn" }}
+                                className="absolute w-20 h-20 bg-zinc-950 rounded-full"
+                            />
+                        )}
+                    </motion.div>
+                )}
+            </AnimatePresence>
 
             {/* Navbar */}
             <nav className="fixed top-0 inset-x-0 z-40 bg-zinc-950/50 backdrop-blur-md border-b border-zinc-800">
@@ -104,7 +111,7 @@ const LandingPage = () => {
             </section>
 
             {/* About / Features Section (Horizontal Scroll) */}
-            <section className="h-[300vh] relative bg-zinc-950">
+            <section ref={targetRef} className="h-[300vh] relative bg-zinc-950">
                 <div className="sticky top-0 h-screen flex items-center overflow-hidden">
                     <motion.div style={{ x: xTransform }} className="flex gap-12 px-12 md:px-24">
 
