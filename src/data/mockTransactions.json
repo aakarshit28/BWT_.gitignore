@@ -1,0 +1,2354 @@
+[
+  {
+    "id": "TXN-GIG-332",
+    "date": "2025-12-05T07:42:15.092Z",
+    "amount": 599,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-333",
+    "date": "2025-12-05T07:42:15.092Z",
+    "amount": 32,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-334",
+    "date": "2025-12-05T07:42:15.092Z",
+    "amount": 248,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-335",
+    "date": "2025-12-05T07:42:15.092Z",
+    "amount": 231,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-336",
+    "date": "2025-12-05T07:42:15.092Z",
+    "amount": 97,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-326",
+    "date": "2025-12-06T07:42:15.092Z",
+    "amount": 610,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-327",
+    "date": "2025-12-06T07:42:15.092Z",
+    "amount": 483,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-328",
+    "date": "2025-12-06T07:42:15.092Z",
+    "amount": 641,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-329",
+    "date": "2025-12-06T07:42:15.092Z",
+    "amount": 309,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-330",
+    "date": "2025-12-06T07:42:15.092Z",
+    "amount": 128,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-331",
+    "date": "2025-12-06T07:42:15.092Z",
+    "amount": 169,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-322",
+    "date": "2025-12-07T07:42:15.092Z",
+    "amount": 43,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-323",
+    "date": "2025-12-07T07:42:15.092Z",
+    "amount": 81,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-324",
+    "date": "2025-12-07T07:42:15.092Z",
+    "amount": 45,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-325",
+    "date": "2025-12-07T07:42:15.092Z",
+    "amount": 242,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-315",
+    "date": "2025-12-08T07:42:15.092Z",
+    "amount": 207,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-316",
+    "date": "2025-12-08T07:42:15.092Z",
+    "amount": 591,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-317",
+    "date": "2025-12-08T07:42:15.092Z",
+    "amount": 650,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-318",
+    "date": "2025-12-08T07:42:15.092Z",
+    "amount": 312,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-319",
+    "date": "2025-12-08T07:42:15.092Z",
+    "amount": 109,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-320",
+    "date": "2025-12-08T07:42:15.092Z",
+    "amount": 110,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-321",
+    "date": "2025-12-08T07:42:15.092Z",
+    "amount": 171,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-311",
+    "date": "2025-12-09T07:42:15.092Z",
+    "amount": 293,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-312",
+    "date": "2025-12-09T07:42:15.092Z",
+    "amount": 468,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-313",
+    "date": "2025-12-09T07:42:15.092Z",
+    "amount": 65,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-314",
+    "date": "2025-12-09T07:42:15.092Z",
+    "amount": 231,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-309",
+    "date": "2025-12-10T07:42:15.092Z",
+    "amount": 310,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-310",
+    "date": "2025-12-10T07:42:15.092Z",
+    "amount": 154,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-305",
+    "date": "2025-12-11T07:42:15.092Z",
+    "amount": 555,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-306",
+    "date": "2025-12-11T07:42:15.092Z",
+    "amount": 322,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-307",
+    "date": "2025-12-11T07:42:15.092Z",
+    "amount": 120,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-308",
+    "date": "2025-12-11T07:42:15.092Z",
+    "amount": 53,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-303",
+    "date": "2025-12-12T07:42:15.092Z",
+    "amount": 541,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-304",
+    "date": "2025-12-12T07:42:15.092Z",
+    "amount": 249,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-300",
+    "date": "2025-12-13T07:42:15.092Z",
+    "amount": 252,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-301",
+    "date": "2025-12-13T07:42:15.092Z",
+    "amount": 29,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-302",
+    "date": "2025-12-13T07:42:15.092Z",
+    "amount": 130,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-297",
+    "date": "2025-12-14T07:42:15.092Z",
+    "amount": 339,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-298",
+    "date": "2025-12-14T07:42:15.092Z",
+    "amount": 358,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-299",
+    "date": "2025-12-14T07:42:15.092Z",
+    "amount": 97,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-290",
+    "date": "2025-12-15T07:42:15.092Z",
+    "amount": 681,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-291",
+    "date": "2025-12-15T07:42:15.092Z",
+    "amount": 601,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-292",
+    "date": "2025-12-15T07:42:15.092Z",
+    "amount": 386,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-293",
+    "date": "2025-12-15T07:42:15.092Z",
+    "amount": 226,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-294",
+    "date": "2025-12-15T07:42:15.092Z",
+    "amount": 37,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-295",
+    "date": "2025-12-15T07:42:15.092Z",
+    "amount": 312,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-296",
+    "date": "2025-12-15T07:42:15.092Z",
+    "amount": 285,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-286",
+    "date": "2025-12-16T07:42:15.092Z",
+    "amount": 125,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-287",
+    "date": "2025-12-16T07:42:15.092Z",
+    "amount": 72,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-288",
+    "date": "2025-12-16T07:42:15.092Z",
+    "amount": 29,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-289",
+    "date": "2025-12-16T07:42:15.092Z",
+    "amount": 222,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-283",
+    "date": "2025-12-17T07:42:15.092Z",
+    "amount": 208,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-284",
+    "date": "2025-12-17T07:42:15.092Z",
+    "amount": 558,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-285",
+    "date": "2025-12-17T07:42:15.092Z",
+    "amount": 225,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-280",
+    "date": "2025-12-18T07:42:15.092Z",
+    "amount": 203,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-281",
+    "date": "2025-12-18T07:42:15.092Z",
+    "amount": 214,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-282",
+    "date": "2025-12-18T07:42:15.092Z",
+    "amount": 44,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-276",
+    "date": "2025-12-19T07:42:15.092Z",
+    "amount": 399,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-277",
+    "date": "2025-12-19T07:42:15.092Z",
+    "amount": 538,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-278",
+    "date": "2025-12-19T07:42:15.092Z",
+    "amount": 392,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-279",
+    "date": "2025-12-19T07:42:15.092Z",
+    "amount": 167,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-273",
+    "date": "2025-12-20T07:42:15.092Z",
+    "amount": 293,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-274",
+    "date": "2025-12-20T07:42:15.092Z",
+    "amount": 46,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-275",
+    "date": "2025-12-20T07:42:15.092Z",
+    "amount": 127,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-271",
+    "date": "2025-12-21T07:42:15.092Z",
+    "amount": 92,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-272",
+    "date": "2025-12-21T07:42:15.092Z",
+    "amount": 156,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-264",
+    "date": "2025-12-22T07:42:15.092Z",
+    "amount": 415,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-265",
+    "date": "2025-12-22T07:42:15.092Z",
+    "amount": 244,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-266",
+    "date": "2025-12-22T07:42:15.092Z",
+    "amount": 630,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-267",
+    "date": "2025-12-22T07:42:15.092Z",
+    "amount": 68,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-268",
+    "date": "2025-12-22T07:42:15.092Z",
+    "amount": 231,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-269",
+    "date": "2025-12-22T07:42:15.092Z",
+    "amount": 299,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-270",
+    "date": "2025-12-22T07:42:15.092Z",
+    "amount": 306,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-259",
+    "date": "2025-12-23T07:42:15.092Z",
+    "amount": 473,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-260",
+    "date": "2025-12-23T07:42:15.092Z",
+    "amount": 267,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-261",
+    "date": "2025-12-23T07:42:15.092Z",
+    "amount": 536,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-262",
+    "date": "2025-12-23T07:42:15.092Z",
+    "amount": 292,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-263",
+    "date": "2025-12-23T07:42:15.092Z",
+    "amount": 262,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-258",
+    "date": "2025-12-24T07:42:15.092Z",
+    "amount": 34,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-257",
+    "date": "2025-12-25T07:42:15.092Z",
+    "amount": 71,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-252",
+    "date": "2025-12-26T07:42:15.092Z",
+    "amount": 508,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-253",
+    "date": "2025-12-26T07:42:15.092Z",
+    "amount": 213,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-254",
+    "date": "2025-12-26T07:42:15.092Z",
+    "amount": 241,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-255",
+    "date": "2025-12-26T07:42:15.092Z",
+    "amount": 49,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-256",
+    "date": "2025-12-26T07:42:15.092Z",
+    "amount": 162,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-250",
+    "date": "2025-12-27T07:42:15.092Z",
+    "amount": 275,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-251",
+    "date": "2025-12-27T07:42:15.092Z",
+    "amount": 51,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-247",
+    "date": "2025-12-28T07:42:15.092Z",
+    "amount": 530,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-248",
+    "date": "2025-12-28T07:42:15.092Z",
+    "amount": 229,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-249",
+    "date": "2025-12-28T07:42:15.092Z",
+    "amount": 72,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-242",
+    "date": "2025-12-29T07:42:15.092Z",
+    "amount": 570,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-243",
+    "date": "2025-12-29T07:42:15.092Z",
+    "amount": 637,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-244",
+    "date": "2025-12-29T07:42:15.092Z",
+    "amount": 118,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-245",
+    "date": "2025-12-29T07:42:15.092Z",
+    "amount": 83,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-246",
+    "date": "2025-12-29T07:42:15.092Z",
+    "amount": 117,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-241",
+    "date": "2025-12-30T07:42:15.092Z",
+    "amount": 224,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-237",
+    "date": "2025-12-31T07:42:15.092Z",
+    "amount": 227,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-238",
+    "date": "2025-12-31T07:42:15.092Z",
+    "amount": 211,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-239",
+    "date": "2025-12-31T07:42:15.092Z",
+    "amount": 46,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-240",
+    "date": "2025-12-31T07:42:15.092Z",
+    "amount": 65,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-231",
+    "date": "2026-01-01T07:42:15.092Z",
+    "amount": 364,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-232",
+    "date": "2026-01-01T07:42:15.092Z",
+    "amount": 327,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-233",
+    "date": "2026-01-01T07:42:15.092Z",
+    "amount": 271,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-234",
+    "date": "2026-01-01T07:42:15.092Z",
+    "amount": 289,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-235",
+    "date": "2026-01-01T07:42:15.092Z",
+    "amount": 127,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-236",
+    "date": "2026-01-01T07:42:15.092Z",
+    "amount": 195,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-226",
+    "date": "2026-01-02T07:42:15.092Z",
+    "amount": 574,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-227",
+    "date": "2026-01-02T07:42:15.092Z",
+    "amount": 456,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-228",
+    "date": "2026-01-02T07:42:15.092Z",
+    "amount": 315,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-229",
+    "date": "2026-01-02T07:42:15.092Z",
+    "amount": 7321,
+    "narration": "Rent Transfer",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-230",
+    "date": "2026-01-02T07:42:15.092Z",
+    "amount": 230,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-220",
+    "date": "2026-01-03T07:42:15.092Z",
+    "amount": 631,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-221",
+    "date": "2026-01-03T07:42:15.092Z",
+    "amount": 268,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-222",
+    "date": "2026-01-03T07:42:15.092Z",
+    "amount": 574,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-223",
+    "date": "2026-01-03T07:42:15.092Z",
+    "amount": 296,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-224",
+    "date": "2026-01-03T07:42:15.092Z",
+    "amount": 243,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-225",
+    "date": "2026-01-03T07:42:15.092Z",
+    "amount": 215,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-213",
+    "date": "2026-01-04T07:42:15.092Z",
+    "amount": 577,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-214",
+    "date": "2026-01-04T07:42:15.092Z",
+    "amount": 326,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-215",
+    "date": "2026-01-04T07:42:15.092Z",
+    "amount": 378,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-216",
+    "date": "2026-01-04T07:42:15.092Z",
+    "amount": 65,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-217",
+    "date": "2026-01-04T07:42:15.092Z",
+    "amount": 273,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-218",
+    "date": "2026-01-04T07:42:15.092Z",
+    "amount": 143,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-219",
+    "date": "2026-01-04T07:42:15.092Z",
+    "amount": 255,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-208",
+    "date": "2026-01-05T07:42:15.092Z",
+    "amount": 597,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-209",
+    "date": "2026-01-05T07:42:15.092Z",
+    "amount": 463,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-210",
+    "date": "2026-01-05T07:42:15.092Z",
+    "amount": 264,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-211",
+    "date": "2026-01-05T07:42:15.092Z",
+    "amount": 166,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-212",
+    "date": "2026-01-05T07:42:15.092Z",
+    "amount": 253,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-205",
+    "date": "2026-01-06T07:42:15.092Z",
+    "amount": 540,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-206",
+    "date": "2026-01-06T07:42:15.092Z",
+    "amount": 208,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-207",
+    "date": "2026-01-06T07:42:15.092Z",
+    "amount": 104,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-201",
+    "date": "2026-01-07T07:42:15.092Z",
+    "amount": 401,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-202",
+    "date": "2026-01-07T07:42:15.092Z",
+    "amount": 217,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-203",
+    "date": "2026-01-07T07:42:15.092Z",
+    "amount": 147,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-204",
+    "date": "2026-01-07T07:42:15.092Z",
+    "amount": 51,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-196",
+    "date": "2026-01-08T07:42:15.092Z",
+    "amount": 300,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-197",
+    "date": "2026-01-08T07:42:15.092Z",
+    "amount": 207,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-198",
+    "date": "2026-01-08T07:42:15.092Z",
+    "amount": 291,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-199",
+    "date": "2026-01-08T07:42:15.092Z",
+    "amount": 124,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-200",
+    "date": "2026-01-08T07:42:15.092Z",
+    "amount": 31,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-192",
+    "date": "2026-01-09T07:42:15.092Z",
+    "amount": 155,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-193",
+    "date": "2026-01-09T07:42:15.092Z",
+    "amount": 147,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-194",
+    "date": "2026-01-09T07:42:15.092Z",
+    "amount": 287,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-195",
+    "date": "2026-01-09T07:42:15.092Z",
+    "amount": 167,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-188",
+    "date": "2026-01-10T07:42:15.092Z",
+    "amount": 261,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-189",
+    "date": "2026-01-10T07:42:15.092Z",
+    "amount": 195,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-190",
+    "date": "2026-01-10T07:42:15.092Z",
+    "amount": 182,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-191",
+    "date": "2026-01-10T07:42:15.092Z",
+    "amount": 272,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-183",
+    "date": "2026-01-11T07:42:15.092Z",
+    "amount": 668,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-184",
+    "date": "2026-01-11T07:42:15.092Z",
+    "amount": 258,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-185",
+    "date": "2026-01-11T07:42:15.092Z",
+    "amount": 198,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-186",
+    "date": "2026-01-11T07:42:15.092Z",
+    "amount": 113,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-187",
+    "date": "2026-01-11T07:42:15.092Z",
+    "amount": 118,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-179",
+    "date": "2026-01-12T07:42:15.092Z",
+    "amount": 166,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-180",
+    "date": "2026-01-12T07:42:15.092Z",
+    "amount": 179,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-181",
+    "date": "2026-01-12T07:42:15.092Z",
+    "amount": 48,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-182",
+    "date": "2026-01-12T07:42:15.092Z",
+    "amount": 137,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-176",
+    "date": "2026-01-13T07:42:15.092Z",
+    "amount": 209,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-177",
+    "date": "2026-01-13T07:42:15.092Z",
+    "amount": 110,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-178",
+    "date": "2026-01-13T07:42:15.092Z",
+    "amount": 275,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-171",
+    "date": "2026-01-14T07:42:15.092Z",
+    "amount": 319,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-172",
+    "date": "2026-01-14T07:42:15.092Z",
+    "amount": 267,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-173",
+    "date": "2026-01-14T07:42:15.092Z",
+    "amount": 159,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-174",
+    "date": "2026-01-14T07:42:15.092Z",
+    "amount": 176,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-175",
+    "date": "2026-01-14T07:42:15.092Z",
+    "amount": 119,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-165",
+    "date": "2026-01-15T07:42:15.092Z",
+    "amount": 593,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-166",
+    "date": "2026-01-15T07:42:15.092Z",
+    "amount": 504,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-167",
+    "date": "2026-01-15T07:42:15.092Z",
+    "amount": 93,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-168",
+    "date": "2026-01-15T07:42:15.092Z",
+    "amount": 261,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-169",
+    "date": "2026-01-15T07:42:15.092Z",
+    "amount": 145,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-170",
+    "date": "2026-01-15T07:42:15.092Z",
+    "amount": 271,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-164",
+    "date": "2026-01-16T07:42:15.092Z",
+    "amount": 170,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-157",
+    "date": "2026-01-17T07:42:15.092Z",
+    "amount": 574,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-158",
+    "date": "2026-01-17T07:42:15.092Z",
+    "amount": 688,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-159",
+    "date": "2026-01-17T07:42:15.092Z",
+    "amount": 651,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-160",
+    "date": "2026-01-17T07:42:15.092Z",
+    "amount": 265,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-161",
+    "date": "2026-01-17T07:42:15.092Z",
+    "amount": 97,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-162",
+    "date": "2026-01-17T07:42:15.092Z",
+    "amount": 67,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-163",
+    "date": "2026-01-17T07:42:15.092Z",
+    "amount": 53,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-153",
+    "date": "2026-01-18T07:42:15.092Z",
+    "amount": 204,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-154",
+    "date": "2026-01-18T07:42:15.092Z",
+    "amount": 168,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-155",
+    "date": "2026-01-18T07:42:15.092Z",
+    "amount": 265,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-156",
+    "date": "2026-01-18T07:42:15.092Z",
+    "amount": 110,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-149",
+    "date": "2026-01-19T07:42:15.092Z",
+    "amount": 250,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-150",
+    "date": "2026-01-19T07:42:15.092Z",
+    "amount": 530,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-151",
+    "date": "2026-01-19T07:42:15.092Z",
+    "amount": 434,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-152",
+    "date": "2026-01-19T07:42:15.092Z",
+    "amount": 31,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-145",
+    "date": "2026-01-20T07:42:15.092Z",
+    "amount": 632,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-146",
+    "date": "2026-01-20T07:42:15.092Z",
+    "amount": 137,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-147",
+    "date": "2026-01-20T07:42:15.092Z",
+    "amount": 246,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-148",
+    "date": "2026-01-20T07:42:15.092Z",
+    "amount": 31,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-141",
+    "date": "2026-01-21T07:42:15.092Z",
+    "amount": 273,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-142",
+    "date": "2026-01-21T07:42:15.092Z",
+    "amount": 490,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-143",
+    "date": "2026-01-21T07:42:15.092Z",
+    "amount": 315,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-144",
+    "date": "2026-01-21T07:42:15.092Z",
+    "amount": 132,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-139",
+    "date": "2026-01-22T07:42:15.092Z",
+    "amount": 155,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-140",
+    "date": "2026-01-22T07:42:15.092Z",
+    "amount": 23,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-137",
+    "date": "2026-01-23T07:42:15.092Z",
+    "amount": 140,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-138",
+    "date": "2026-01-23T07:42:15.092Z",
+    "amount": 33,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-135",
+    "date": "2026-01-24T07:42:15.092Z",
+    "amount": 309,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-136",
+    "date": "2026-01-24T07:42:15.092Z",
+    "amount": 210,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-132",
+    "date": "2026-01-25T07:42:15.092Z",
+    "amount": 158,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-133",
+    "date": "2026-01-25T07:42:15.092Z",
+    "amount": 182,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-134",
+    "date": "2026-01-25T07:42:15.092Z",
+    "amount": 31,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-128",
+    "date": "2026-01-26T07:42:15.092Z",
+    "amount": 48,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-129",
+    "date": "2026-01-26T07:42:15.092Z",
+    "amount": 157,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-130",
+    "date": "2026-01-26T07:42:15.092Z",
+    "amount": 204,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-131",
+    "date": "2026-01-26T07:42:15.092Z",
+    "amount": 302,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-123",
+    "date": "2026-01-27T07:42:15.092Z",
+    "amount": 369,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-124",
+    "date": "2026-01-27T07:42:15.092Z",
+    "amount": 679,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-125",
+    "date": "2026-01-27T07:42:15.092Z",
+    "amount": 406,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-126",
+    "date": "2026-01-27T07:42:15.092Z",
+    "amount": 104,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-127",
+    "date": "2026-01-27T07:42:15.092Z",
+    "amount": 81,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-120",
+    "date": "2026-01-28T07:42:15.092Z",
+    "amount": 201,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-121",
+    "date": "2026-01-28T07:42:15.092Z",
+    "amount": 108,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-122",
+    "date": "2026-01-28T07:42:15.092Z",
+    "amount": 63,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-114",
+    "date": "2026-01-29T07:42:15.092Z",
+    "amount": 464,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-115",
+    "date": "2026-01-29T07:42:15.092Z",
+    "amount": 417,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-116",
+    "date": "2026-01-29T07:42:15.092Z",
+    "amount": 39,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-117",
+    "date": "2026-01-29T07:42:15.092Z",
+    "amount": 271,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-118",
+    "date": "2026-01-29T07:42:15.092Z",
+    "amount": 303,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-119",
+    "date": "2026-01-29T07:42:15.092Z",
+    "amount": 79,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-109",
+    "date": "2026-01-30T07:42:15.092Z",
+    "amount": 470,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-110",
+    "date": "2026-01-30T07:42:15.092Z",
+    "amount": 294,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-111",
+    "date": "2026-01-30T07:42:15.092Z",
+    "amount": 63,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-112",
+    "date": "2026-01-30T07:42:15.092Z",
+    "amount": 318,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-113",
+    "date": "2026-01-30T07:42:15.092Z",
+    "amount": 256,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-106",
+    "date": "2026-01-31T07:42:15.092Z",
+    "amount": 462,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-107",
+    "date": "2026-01-31T07:42:15.092Z",
+    "amount": 467,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-108",
+    "date": "2026-01-31T07:42:15.092Z",
+    "amount": 222,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-103",
+    "date": "2026-02-01T07:42:15.092Z",
+    "amount": 476,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-104",
+    "date": "2026-02-01T07:42:15.092Z",
+    "amount": 465,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-105",
+    "date": "2026-02-01T07:42:15.092Z",
+    "amount": 4956,
+    "narration": "Rent Transfer",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-102",
+    "date": "2026-02-02T07:42:15.092Z",
+    "amount": 309,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-97",
+    "date": "2026-02-03T07:42:15.092Z",
+    "amount": 358,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-98",
+    "date": "2026-02-03T07:42:15.092Z",
+    "amount": 419,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-99",
+    "date": "2026-02-03T07:42:15.092Z",
+    "amount": 228,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-100",
+    "date": "2026-02-03T07:42:15.092Z",
+    "amount": 315,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-101",
+    "date": "2026-02-03T07:42:15.092Z",
+    "amount": 141,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-96",
+    "date": "2026-02-04T07:42:15.092Z",
+    "amount": 290,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-90",
+    "date": "2026-02-05T07:42:15.092Z",
+    "amount": 222,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-91",
+    "date": "2026-02-05T07:42:15.092Z",
+    "amount": 495,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-92",
+    "date": "2026-02-05T07:42:15.092Z",
+    "amount": 201,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-93",
+    "date": "2026-02-05T07:42:15.092Z",
+    "amount": 317,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-94",
+    "date": "2026-02-05T07:42:15.092Z",
+    "amount": 192,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-95",
+    "date": "2026-02-05T07:42:15.092Z",
+    "amount": 271,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-88",
+    "date": "2026-02-06T07:42:15.092Z",
+    "amount": 629,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-89",
+    "date": "2026-02-06T07:42:15.092Z",
+    "amount": 256,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-84",
+    "date": "2026-02-07T07:42:15.092Z",
+    "amount": 533,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-85",
+    "date": "2026-02-07T07:42:15.092Z",
+    "amount": 153,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-86",
+    "date": "2026-02-07T07:42:15.092Z",
+    "amount": 183,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-87",
+    "date": "2026-02-07T07:42:15.092Z",
+    "amount": 120,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-81",
+    "date": "2026-02-08T07:42:15.092Z",
+    "amount": 140,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-82",
+    "date": "2026-02-08T07:42:15.092Z",
+    "amount": 29,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-83",
+    "date": "2026-02-08T07:42:15.092Z",
+    "amount": 285,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-79",
+    "date": "2026-02-09T07:42:15.092Z",
+    "amount": 165,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-80",
+    "date": "2026-02-09T07:42:15.092Z",
+    "amount": 298,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-74",
+    "date": "2026-02-10T07:42:15.092Z",
+    "amount": 440,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-75",
+    "date": "2026-02-10T07:42:15.092Z",
+    "amount": 197,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-76",
+    "date": "2026-02-10T07:42:15.092Z",
+    "amount": 54,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-77",
+    "date": "2026-02-10T07:42:15.092Z",
+    "amount": 171,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-78",
+    "date": "2026-02-10T07:42:15.092Z",
+    "amount": 169,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-71",
+    "date": "2026-02-11T07:42:15.092Z",
+    "amount": 408,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-72",
+    "date": "2026-02-11T07:42:15.092Z",
+    "amount": 55,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-73",
+    "date": "2026-02-11T07:42:15.092Z",
+    "amount": 70,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-66",
+    "date": "2026-02-12T07:42:15.092Z",
+    "amount": 624,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-67",
+    "date": "2026-02-12T07:42:15.092Z",
+    "amount": 504,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-68",
+    "date": "2026-02-12T07:42:15.092Z",
+    "amount": 442,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-69",
+    "date": "2026-02-12T07:42:15.092Z",
+    "amount": 122,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-70",
+    "date": "2026-02-12T07:42:15.092Z",
+    "amount": 245,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-63",
+    "date": "2026-02-13T07:42:15.092Z",
+    "amount": 283,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-64",
+    "date": "2026-02-13T07:42:15.092Z",
+    "amount": 318,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-65",
+    "date": "2026-02-13T07:42:15.092Z",
+    "amount": 37,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-59",
+    "date": "2026-02-14T07:42:15.092Z",
+    "amount": 448,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-60",
+    "date": "2026-02-14T07:42:15.092Z",
+    "amount": 532,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-61",
+    "date": "2026-02-14T07:42:15.092Z",
+    "amount": 24,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-62",
+    "date": "2026-02-14T07:42:15.092Z",
+    "amount": 42,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-57",
+    "date": "2026-02-15T07:42:15.092Z",
+    "amount": 520,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-58",
+    "date": "2026-02-15T07:42:15.092Z",
+    "amount": 290,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-53",
+    "date": "2026-02-16T07:42:15.092Z",
+    "amount": 637,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-54",
+    "date": "2026-02-16T07:42:15.092Z",
+    "amount": 258,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-55",
+    "date": "2026-02-16T07:42:15.092Z",
+    "amount": 43,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-56",
+    "date": "2026-02-16T07:42:15.092Z",
+    "amount": 318,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-50",
+    "date": "2026-02-17T07:42:15.092Z",
+    "amount": 183,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-51",
+    "date": "2026-02-17T07:42:15.092Z",
+    "amount": 42,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-52",
+    "date": "2026-02-17T07:42:15.092Z",
+    "amount": 78,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-47",
+    "date": "2026-02-18T07:42:15.092Z",
+    "amount": 602,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-48",
+    "date": "2026-02-18T07:42:15.092Z",
+    "amount": 524,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-49",
+    "date": "2026-02-18T07:42:15.092Z",
+    "amount": 67,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-44",
+    "date": "2026-02-19T07:42:15.092Z",
+    "amount": 295,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-45",
+    "date": "2026-02-19T07:42:15.092Z",
+    "amount": 182,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-46",
+    "date": "2026-02-19T07:42:15.092Z",
+    "amount": 28,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-40",
+    "date": "2026-02-20T07:42:15.092Z",
+    "amount": 438,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-41",
+    "date": "2026-02-20T07:42:15.092Z",
+    "amount": 405,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-42",
+    "date": "2026-02-20T07:42:15.092Z",
+    "amount": 620,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-43",
+    "date": "2026-02-20T07:42:15.092Z",
+    "amount": 92,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-37",
+    "date": "2026-02-21T07:42:15.092Z",
+    "amount": 446,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-38",
+    "date": "2026-02-21T07:42:15.092Z",
+    "amount": 464,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-39",
+    "date": "2026-02-21T07:42:15.092Z",
+    "amount": 235,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-35",
+    "date": "2026-02-22T07:42:15.092Z",
+    "amount": 385,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-36",
+    "date": "2026-02-22T07:42:15.092Z",
+    "amount": 170,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-33",
+    "date": "2026-02-23T07:42:15.092Z",
+    "amount": 441,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-34",
+    "date": "2026-02-23T07:42:15.092Z",
+    "amount": 318,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-32",
+    "date": "2026-02-24T07:42:15.092Z",
+    "amount": 82,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-30",
+    "date": "2026-02-25T07:42:15.092Z",
+    "amount": 377,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-31",
+    "date": "2026-02-25T07:42:15.092Z",
+    "amount": 315,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-25",
+    "date": "2026-02-26T07:42:15.092Z",
+    "amount": 507,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-26",
+    "date": "2026-02-26T07:42:15.092Z",
+    "amount": 247,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-27",
+    "date": "2026-02-26T07:42:15.092Z",
+    "amount": 151,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-28",
+    "date": "2026-02-26T07:42:15.092Z",
+    "amount": 309,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-29",
+    "date": "2026-02-26T07:42:15.092Z",
+    "amount": 80,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-21",
+    "date": "2026-02-27T07:42:15.092Z",
+    "amount": 257,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-22",
+    "date": "2026-02-27T07:42:15.092Z",
+    "amount": 35,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-23",
+    "date": "2026-02-27T07:42:15.092Z",
+    "amount": 108,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-24",
+    "date": "2026-02-27T07:42:15.092Z",
+    "amount": 221,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-17",
+    "date": "2026-02-28T07:42:15.092Z",
+    "amount": 370,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-18",
+    "date": "2026-02-28T07:42:15.092Z",
+    "amount": 262,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-19",
+    "date": "2026-02-28T07:42:15.092Z",
+    "amount": 55,
+    "narration": "Mobile Recharge",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-20",
+    "date": "2026-02-28T07:42:15.092Z",
+    "amount": 104,
+    "narration": "Groceries",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-14",
+    "date": "2026-03-01T07:42:15.092Z",
+    "amount": 223,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-15",
+    "date": "2026-03-01T07:42:15.092Z",
+    "amount": 55,
+    "narration": "Petrol",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-16",
+    "date": "2026-03-01T07:42:15.092Z",
+    "amount": 185,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-9",
+    "date": "2026-03-02T07:42:15.092Z",
+    "amount": 410,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-10",
+    "date": "2026-03-02T07:42:15.092Z",
+    "amount": 146,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-11",
+    "date": "2026-03-02T07:42:15.092Z",
+    "amount": 117,
+    "narration": "Snacks",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-12",
+    "date": "2026-03-02T07:42:15.092Z",
+    "amount": 190,
+    "narration": "Chai",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-EXP-13",
+    "date": "2026-03-02T07:42:15.092Z",
+    "amount": 112,
+    "narration": "Rent",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-5",
+    "date": "2026-03-03T07:42:15.092Z",
+    "amount": 223,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-6",
+    "date": "2026-03-03T07:42:15.092Z",
+    "amount": 268,
+    "narration": "BLINKIT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-7",
+    "date": "2026-03-03T07:42:15.092Z",
+    "amount": 346,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-8",
+    "date": "2026-03-03T07:42:15.092Z",
+    "amount": 5284,
+    "narration": "Rent Transfer",
+    "type": "DEBIT"
+  },
+  {
+    "id": "TXN-GIG-1",
+    "date": "2026-03-04T07:42:15.092Z",
+    "amount": 281,
+    "narration": "SWIGGY-PAYOUT",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-2",
+    "date": "2026-03-04T07:42:15.092Z",
+    "amount": 356,
+    "narration": "ZOMATO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-GIG-3",
+    "date": "2026-03-04T07:42:15.092Z",
+    "amount": 614,
+    "narration": "ZEPTO",
+    "type": "CREDIT"
+  },
+  {
+    "id": "TXN-EXP-4",
+    "date": "2026-03-04T07:42:15.092Z",
+    "amount": 319,
+    "narration": "Electricity Bill",
+    "type": "DEBIT"
+  }
+]
