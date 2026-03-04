@@ -5,7 +5,8 @@
 
 ---
 
-## Table of Contents
+## Table of Content
+
 1. [Executive Summary](#executive-summary)
 2. [The Problem Landscape](#the-problem-landscape)
 3. [The GIG Flow Solution](#the-gig-flow-solution)
